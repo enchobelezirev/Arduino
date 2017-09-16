@@ -29,5 +29,5 @@ void loop()
 //      else if(data == '0')         //  Checks whether value of data is equal to 0
 //         digitalWrite(13, LOW);    //If value is 0 then LED turns OFF
 //   }
-delay(2000);
+delay(200);
 }
